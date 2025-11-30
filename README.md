@@ -1,55 +1,70 @@
 <div align="center">
-    <h1>Hi there 👋, soy cuadradodev</h1>
-    <p><b>Estudiante de Desarrollo de Software @ 42 Málaga</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Cuadradodev&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=cuadradodev&descAlignY=55&descSize=30" alt="Header Animado" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0072FF&center=true&vCenter=true&width=435&lines=Innovador+de+Producto;Desarrollador+C%2FC%2B%2B+%26+Android;Estudiante+42+M%C3%A1laga;Obsesionado+con+la+Eficiencia" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mí: La Metodología 42
+### 🚀 Mentalidad: "Un paso más allá"
 
-Como estudiante de **42 Málaga**, mi formación se basa en el aprendizaje *peer-to-peer* y la resolución de problemas complejos sin supervisión directa. Mi perfil combina la **creatividad** necesaria para encontrar soluciones desde cero con un **perfeccionismo** técnico riguroso.
+No me conformo con que el código "funcione". Mi obsesión es la **innovación** y la **excelencia técnica**. Soy un desarrollador que disfruta desafiando los límites: donde otros ven un requisito, yo veo una oportunidad para escalar.
 
-Me apasiona la **eficiencia** y el control total sobre lo que ocurre en el hardware. No solo escribo código; gestiono memoria y optimizo recursos.
+> **El caso `so_long`:** Transformé un ejercicio gráfico estándar en una experiencia **multijugador completa**, implementando enemigos con patrones de patrulla. No estaba en el guion, pero así entiendo el desarrollo.
 
-* **🔭 Actualmente trabajando en:**
-    
-    Avanzando en el *Common Core* de 42, desarrollando algoritmos complejos y reimplementando funciones estándar del sistema para comprender la informática desde sus cimientos.
-    
-* **🌱 Enfoque Técnico:**
-    
-    * **Maestría en C/C++:** Mi base principal. Entiendo los punteros, la gestión de memoria y las estructuras de datos a bajo nivel.
-    * **Desarrollo Móvil:** Aplicando esa disciplina lógica al ecosistema **Android** para crear apps nativas eficientes.
-    
-* **⚡ Fun fact:**
-    
-    Busco en mi código la misma armonía y ritmo que encuentro en la **música**. Para mí, un programa eficiente es como una buena composición: cada nota (o línea de código) tiene un propósito exacto.
+---
+
+### 🔭 Emprendimiento & Proyectos
+
+Actualmente combino base técnica con visión de producto en dos desarrollos propios:
+
+| Proyecto | Descripción | Estado |
+| :--- | :--- | :--- |
+| **🌀 Life Wheel Gamified** | App de gestión de hábitos basada en la "Rueda de la Vida". Visión holística del crecimiento personal. | 🏗️ En Desarrollo |
+| **📱 Smart Recommender** | Algoritmo matemático que recomienda el smartphone perfecto basado en uso real y presupuesto, sin marketing. | 🏗️ En Desarrollo |
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-Herramientas y lenguajes que utilizo día a día bajo estándares estrictos de codificación:
+<div align="center">
 
-* **Lenguajes Principales:** C, C++
-* **Móvil:** Android (Java/Kotlin)
-* **Entorno:** Unix/Linux, Shell Scripting, Git, Vim
-* **Competencias:** Algoritmia, Gestión de Memoria, Estructuras de Datos
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+</div>
+
+---
+
+### 🎓 El Factor 42
+
+Más allá de los punteros y la gestión de memoria, **42 Málaga** ha forjado mi carácter:
+* **Resiliencia:** Abrazar la frustración como parte del proceso.
+* **Investigación:** "RTFM" es mi lema.
+* **Equipo:** Construir software es un deporte de equipo.
 
 ---
 
-### 🤝 Colaboración y Contacto
+### 🤝 Conectemos
 
-* **👯 Busco colaborar en:**
-    
-    Proyectos que requieran optimización de rendimiento en **C/C++** o desarrollo de aplicaciones **Android** donde la calidad del código sea prioritaria.
-    
-* **💬 Hablemos de:**
-    
-    Eficiencia algorítmica, arquitectura de software, la filosofía de 42 o recomendaciones musicales.
-    
-* **📫 Dónde encontrarme:**
-    
-    Conecta conmigo en **LinkedIn**:
-  https://www.linkedin.com/in/antonio-cuadradoborrego/
+Siempre abierto a discutir sobre **nuevas ideas de negocio**, optimización o recomendaciones musicales.
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/antonio-cuadradoborrego/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:cuadradodev42@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
